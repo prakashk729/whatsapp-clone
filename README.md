@@ -7,7 +7,7 @@ Current Features -
 1. JWT Web token authentication.
 2. Bcrypt for password hashing
 3. Sign Up new users
-4. Sign In eisting user
+4. Sign In existing user
 5. Auto-retrieve and display user groups
 6. Create multiple groups
 7. Click on a user group to display group messages
