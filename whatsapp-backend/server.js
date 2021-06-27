@@ -36,7 +36,7 @@ app.use("/groups", groups);
 
 // DB config
 const connection_url =
-  "mongodb+srv://admin:pHzHqx1qQPfzJiXW@cluster0.de8mk.mongodb.net/whats-app-db?retryWrites=true&w=majority";
+  "mongodb+srv://admin:<password>@cluster0.de8mk.mongodb.net/whats-app-db?retryWrites=true&w=majority";
 mongoose.connect(connection_url, {
   useCreateIndex: true,
   useNewUrlParser: true,
